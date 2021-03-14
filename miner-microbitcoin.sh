@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./cpuminer-sse2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u Mis2JS1CWLuCiwQEhy252sxFSVnVxvQJS3.MBC_WORKER -t 3
-sleep 2
+./cpuminer-sse2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MksHcqmKRcnrBn2gHpMUA6y2r4aLGxFt3i.MBC_WORKER -t 2
+sleep 7
 done
